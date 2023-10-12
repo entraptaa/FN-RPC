@@ -1,0 +1,26 @@
+{
+  "name": "fn-rpc",
+  "version": "1.0.0",
+  "description": "Simple Fortnite Discord RPC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RiftSTW/FN-RPC.git"
+  },
+  "keywords": [
+    "Fortnite"
+  ],
+  "author": "RiftSTW",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RiftSTW/FN-RPC/issues"
+  },
+  "homepage": "https://github.com/RiftSTW/FN-RPC#readme",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "discord-rpc": "^4.0.1"
+  }
+}
