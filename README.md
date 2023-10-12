@@ -18,9 +18,9 @@ Make sure you have the Desktop version of Discord, not the browser version. If y
 > I keep getting error: "the requested account's stats are not public"
 
 Launch Fortnite & Go to the Account & Privacy Settings, then set Public Game Stats to ON:
-<img src="https://vee.hates.college/6gDvqbwlE"/>
+<img src="https://github.com/RiftSTW/FN-RPC/blob/main/images/stats.png"/>
 
 > How do I get my Epic Games Account ID?
 
 Launch Fortnite & Go to the Account & Privacy Settings, then click Copy to Clipboard.
-<img src="https://vee.hates.college/6gDxp3yzM"/>
+<img src="https://github.com/RiftSTW/FN-RPC/blob/main/images/account.png"/>
