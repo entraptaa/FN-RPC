@@ -1,7 +1,7 @@
 # FN-RPC
 Display your Fortnite Statistics on your Discord Profile!
 
-#### SETUP GUIDE
+### SETUP GUIDE
 
 1. Install [Node.JS](https://nodejs.org/en)
 2. Run INSTALL PACKAGES.bat
@@ -9,6 +9,8 @@ Display your Fortnite Statistics on your Discord Profile!
 4. Paste your API Key to the apiKey field in settings.json
 5. Paste in your Epic Games Account ID to the epicID field in settings.json
 6. Run start.bat
+
+### [Support Server](https://discord.gg/GvHfG33)
 
 ### Common Issues
 > The RPC won't connect!

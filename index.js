@@ -35,9 +35,9 @@ async function setStatus(bp, wins, kills, deaths, progress, username) {
 }
 
 rpc.on("ready", async () => {
-    console.log('FN-RPC is now initalized.');
+    console.log(`FN-RPC is now initalized for Discord User: ${rpc.user.username}.`);
     GetStats();
-})
+});
 
 rpc.login({
     clientId: clientID
